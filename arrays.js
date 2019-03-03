@@ -1,3 +1,5 @@
-var chocolateBars = [ "snickers", "hundred grand", "kitkat", and "skittles" ];
+var chocolateBars = [ "snickers", "hundred grand", "kitkat", and "skittles" ]
 
-var addElementToBeginningOfArray = [ "snickers", "hundred grand", "kitkat", and "skittles" ];
+function addElementToBeginningOfArray = [ "snickers", "hundred grand", "kitkat", and "skittles" ]
+
+function destructivelyAddElementToBeginningOfArray = ["snickers", "hundred grand", "kitkat", and "skittles"]
